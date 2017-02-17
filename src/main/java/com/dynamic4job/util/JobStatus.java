@@ -1,4 +1,4 @@
-package com.bj58.job.util;
+package com.dynamic4job.util;
 
 import org.quartz.Trigger.TriggerState;
 

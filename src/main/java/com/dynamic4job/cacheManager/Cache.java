@@ -1,4 +1,4 @@
-package com.bj58.cacheManager;
+package com.dynamic4job.cacheManager;
 
 import java.net.URLClassLoader;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import org.quartz.Scheduler;
 
-import com.bj58.job.util.JobConfig;
+import com.dynamic4job.util.JobConfig;
 
 /**
  * @author 作者 mister_ge@foxmail.com:

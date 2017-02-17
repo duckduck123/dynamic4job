@@ -1,4 +1,4 @@
-package com.bj58.job.manager;
+package com.dynamic4job.manager;
 
 import java.util.Date;
 
@@ -9,9 +9,9 @@ import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
 import org.quartz.JobKey;
 
-import com.bj58.constant.JobConstant;
-import com.bj58.job.util.JobClassLoader;
-import com.bj58.job.util.LoggerHelper;
+import com.dynamic4job.constant.JobConstant;
+import com.dynamic4job.util.JobClassLoader;
+import com.dynamic4job.util.LoggerHelper;
 
 /**
  * @author 作者 mister_ge@foxmail.com:

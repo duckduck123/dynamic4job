@@ -1,10 +1,10 @@
-package com.bj58.job.manager;
+package com.dynamic4job.manager;
 
 import org.quartz.Scheduler;
 import org.quartz.impl.StdSchedulerFactory;
 
-import com.bj58.cacheManager.Cache;
-import com.bj58.constant.JobConstant;
+import com.dynamic4job.cacheManager.Cache;
+import com.dynamic4job.constant.JobConstant;
 
 /**
  * @author 作者 mister_ge@foxmail.com:

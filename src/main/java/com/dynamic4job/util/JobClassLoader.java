@@ -1,4 +1,4 @@
-package com.bj58.job.util;
+package com.dynamic4job.util;
 
 import java.io.File;
 import java.lang.reflect.Method;
@@ -9,8 +9,8 @@ import java.util.List;
 
 import sun.misc.ClassLoaderUtil;
 
-import com.bj58.cacheManager.Cache;
-import com.bj58.constant.JobConstant;
+import com.dynamic4job.cacheManager.Cache;
+import com.dynamic4job.constant.JobConstant;
 /**
  * @author 作者 mister_ge@foxmail.com:
  * @version 创建时间：2016年11月26日 下午3:42:37 类说明

@@ -1,4 +1,4 @@
-package com.bj58.job.manager;
+package com.dynamic4job.manager;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -11,11 +11,11 @@ import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
 
-import com.bj58.cacheManager.Cache;
-import com.bj58.constant.JobConstant;
-import com.bj58.job.util.ConfigManager;
-import com.bj58.job.util.JobConfig;
-import com.bj58.job.util.LoggerHelper;
+import com.dynamic4job.cacheManager.Cache;
+import com.dynamic4job.constant.JobConstant;
+import com.dynamic4job.util.ConfigManager;
+import com.dynamic4job.util.JobConfig;
+import com.dynamic4job.util.LoggerHelper;
 
 /**
  * @author 作者 mister_ge@foxmail.com:

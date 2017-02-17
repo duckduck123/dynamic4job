@@ -1,4 +1,4 @@
-package com.bj58.job.manager;
+package com.dynamic4job.manager;
 
 import java.util.HashMap;
 import java.util.Hashtable;
@@ -20,12 +20,12 @@ import org.quartz.TriggerBuilder;
 import org.quartz.TriggerKey;
 import org.quartz.impl.StdSchedulerFactory;
 
-import com.bj58.cacheManager.Cache;
-import com.bj58.constant.JobConstant;
-import com.bj58.job.listener.UniJobListener;
-import com.bj58.job.listener.UniTriggerListener;
-import com.bj58.job.util.JobConfig;
-import com.bj58.job.util.LoggerHelper;
+import com.dynamic4job.cacheManager.Cache;
+import com.dynamic4job.constant.JobConstant;
+import com.dynamic4job.listener.UniJobListener;
+import com.dynamic4job.listener.UniTriggerListener;
+import com.dynamic4job.util.JobConfig;
+import com.dynamic4job.util.LoggerHelper;
 
 import static org.quartz.CronScheduleBuilder.cronSchedule;
 /**

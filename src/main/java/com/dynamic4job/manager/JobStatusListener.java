@@ -1,4 +1,4 @@
-package com.bj58.job.manager;
+package com.dynamic4job.manager;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -15,12 +15,12 @@ import org.quartz.Trigger.TriggerState;
 import org.quartz.TriggerKey;
 import org.quartz.impl.StdSchedulerFactory;
 
-import com.bj58.cacheManager.Cache;
-import com.bj58.constant.JobConstant;
-import com.bj58.job.util.DateUtil;
-import com.bj58.job.util.JobConfig;
-import com.bj58.job.util.JobStatus;
-import com.bj58.job.util.LoggerHelper;
+import com.dynamic4job.cacheManager.Cache;
+import com.dynamic4job.constant.JobConstant;
+import com.dynamic4job.util.DateUtil;
+import com.dynamic4job.util.JobConfig;
+import com.dynamic4job.util.JobStatus;
+import com.dynamic4job.util.LoggerHelper;
 
 /**
  * @author 作者 mister_ge@foxmail.com:

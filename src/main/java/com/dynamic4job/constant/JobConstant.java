@@ -1,4 +1,4 @@
-package com.bj58.constant;
+package com.dynamic4job.constant;
 /**
  * @author 作者 mister_ge@foxmail.com:
  * @version 创建时间：2016年11月29日 下午4:31:15

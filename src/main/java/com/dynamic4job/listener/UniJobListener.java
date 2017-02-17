@@ -1,10 +1,10 @@
-package com.bj58.job.listener;
+package com.dynamic4job.listener;
 
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
 import org.quartz.JobListener;
 
-import com.bj58.job.util.LoggerHelper;
+import com.dynamic4job.util.LoggerHelper;
 
 /**
  * @author 作者 mister_ge@foxmail.com:

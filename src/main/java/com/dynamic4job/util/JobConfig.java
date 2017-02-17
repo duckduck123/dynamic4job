@@ -1,4 +1,4 @@
-package com.bj58.job.util;
+package com.dynamic4job.util;
 /**
  * @author 作者 mister_ge@foxmail.com:
  * @version 创建时间：2016年11月29日 下午3:27:04

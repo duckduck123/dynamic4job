@@ -1,4 +1,4 @@
-package com.bj58.Interface;
+package com.dynamic4job.Interface;
 /**
  * @author 作者 mister_ge@foxmail.com:
  * @version 创建时间：2016年11月26日 下午3:52:34

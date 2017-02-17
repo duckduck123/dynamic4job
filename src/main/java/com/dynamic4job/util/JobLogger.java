@@ -1,4 +1,4 @@
-package com.bj58.job.util;
+package com.dynamic4job.util;
 
 import org.apache.log4j.AppenderSkeleton;
 import org.apache.log4j.spi.LoggingEvent;
