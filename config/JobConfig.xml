@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+	<!-- <job description="测试1">
+		<name>job1</name>
+		<group>job1</group>
+		<jarPath>D:\mycode\jobdemo\quartz.demo-0.0.1-SNAPSHOT.jar</jarPath>
+		<classNameSpace>quartz.Test.Test3</classNameSpace>
+		<methodName>start</methodName>
+		<cron>*/20 * * * * ?</cron>
+	</job>-->
+	<job description="测试5">  
+		<enabled>true</enabled> 
+		<name>job5</name> 
+		<group>jo5</group>
+		<jarPath>D:\mycode\jobdemo\crmsh_job_manager\job\crmsh_jobs.jar</jarPath>
+		<classNameSpace>com.bj58.job.jobs.TestJob</classNameSpace>
+		<methodName>excute</methodName>
+		<cron>*/3 * * * * ?</cron>
+	</job>
+</jobs>
